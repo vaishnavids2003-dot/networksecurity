@@ -6,4 +6,7 @@ certifi
 matplotlib
 scikit-learn
 
+pymongo[srv]==3.12
+
+
 ##-e .
